@@ -1,6 +1,5 @@
 # Trabajo Práctico Nº 1 - Parte 1 | Programación de Videojuegos I
 
-🎮 Actividad
 Este proyecto fue desarrollado como parte del **Trabajo Práctico Nº 1** de la materia, con el objetivo de comenzar a crear videojuegos 2D y comprender el manejo de eventos de teclado en tiempo real.
 
 ## 📝 Consigna
