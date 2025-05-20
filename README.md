@@ -24,8 +24,8 @@ Los recursos gráficos utilizados en este proyecto provienen de:
 Estos paquetes fueron creados por **Mucho Pixels**, un estudio especializado en pixel art para videojuegos.
 > El paquete **CHARACTER ANIMATION ASSET PACK** es completamente gratuito y se puede usar en proyectos comerciales, con las siguientes restricciones:
 
-- ❌ No está permitido redistribuir directamente los archivos.
-- ❌ No se pueden utilizar como parte de un logotipo o marca registrada.
+❌ No está permitido redistribuir directamente los archivos.
+❌ No se pueden utilizar como parte de un logotipo o marca registrada.
 
 🔗 Sitio oficial: [www.muchopixels.com]
 
