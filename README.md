@@ -1,45 +1,44 @@
 # Trabajo Práctico Nº 1 - Parte 1 | Programación de Videojuegos I 🎮
 
-Este proyecto fue desarrollado como parte del **Trabajo Práctico Nº 1** de la materia, con el objetivo de comenzar a crear videojuegos 2D y comprender el manejo de eventos de teclado en tiempo real.
+This project was developed as part of the **first practical assignment** for the course *Video Game Programming I*, with the goal of starting to create simple 2D games and understanding real-time keyboard event handling.
 
-## 📝 Consigna
+## 📝 Task
 
-Crear un programa que permita a un personaje:
-- Desplazarse horizontalmente (eje X).
-- Realizar saltos en pantalla.
+Create a program that allows a character to:
+- Move horizontally (X axis).
+- Perform jumps on screen.
 
-## ⚙️ Tecnologías usadas
+## ⚙️ Technologies used
 
 - C++
 - SFML
 - Visual Studio
 
-## 🖼️ Créditos y Licencia de Assets
+## 🖼️ Credits & Asset License
 
-Los recursos gráficos utilizados en este proyecto provienen de:
+The graphic resources used in this project come from:
 
 - **CHARACTER ANIMATION ASSET PACK**
 - **CITY STREET TILESET PACK**
 
-Estos paquetes fueron creados por **Mucho Pixels**, un estudio especializado en pixel art para videojuegos.
-> El paquete **CHARACTER ANIMATION ASSET PACK** es completamente gratuito y se puede usar en proyectos comerciales, con las siguientes restricciones:
+These packs were created by **Mucho Pixels**, a studio specialized in pixel art for games.
 
-- No está permitido redistribuir directamente los archivos.
-- No se pueden utilizar como parte de un logotipo o marca registrada.
+> The **CHARACTER ANIMATION ASSET PACK** is completely free for commercial use, with the following restrictions:
 
-🔗 Sitio oficial: [www.muchopixels.com]
+- Direct redistribution of the files is not allowed.
+- Cannot be used as part of a logo or registered trademark.
 
-## ▶️ Cómo ejecutar
+🔗 Official site: [www.muchopixels.com]
 
-1. Descargar la carpeta **"Instalador"**.
-2. Dentro encontrarás todos los archivos necesarios y un archivo ejecutable:  
+## ▶️ How to run
+
+1. Download the **"Instalador"** folder.
+2. Inside you’ll find all necessary files and an executable file:  
    **`TP1-ProgrVJ-I.exe`**
-3. Ejecutá el `.exe` directamente para jugar.
+3. Run the `.exe` directly to play.
 
-> ⚠️ No borrar ni mover los archivos que acompañan al ejecutable. El juego depende de ellos para funcionar correctamente.
+> ⚠️ Do not delete or move the accompanying files. The game depends on them to run properly.
 
-## 👨‍💻 Autor
+## 👨‍💻 Author
 
-**JulioCZ**  
-1° Cuatrimestre – Año 2025  
-Tecnicatura en Diseño y Programación de Videojuegos
+**JulioCZ** - Technical Degree in Video Game Design and Programming
