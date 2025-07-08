@@ -2,6 +2,12 @@
 
 This project was developed as part of the **first practical assignment** for the course *Video Game Programming I*, with the goal of starting to create simple 2D games and understanding real-time keyboard event handling.
 
+---
+
+![Screenshot](https://img.itch.zone/aW1hZ2UvMzcwNjEwNy8yMjA1NDkzNi5wbmc=/original/xT9h1A.png)
+
+---
+
 ## 📝 Task
 
 Create a program that allows a character to:
@@ -30,14 +36,12 @@ These packs were created by **Mucho Pixels**, a studio specialized in pixel art 
 
 🔗 Official site: [www.muchopixels.com]
 
-## ▶️ How to run
+---
 
-1. Download the **"Instalador"** folder.
-2. Inside you’ll find all necessary files and an executable file:  
-   **`TP1-ProgrVJ-I.exe`**
-3. Run the `.exe` directly to play.
+## 📦 Download
+[Download on itch.io](https://juliocz36.itch.io/blocks-in-order-movement-demo)
 
-> ⚠️ Do not delete or move the accompanying files. The game depends on them to run properly.
+---
 
 ## 👨‍💻 Author
 
